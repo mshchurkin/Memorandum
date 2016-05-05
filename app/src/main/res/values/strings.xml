@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Memorandum</string>
+    <string name="password">ПАРОЛЬ</string>
+    <string name="pnum">НОМЕР ТЕЛЕФОНА</string>
+    <string name="in">ВХОД</string>
+    <string name="reg">РЕГИСТРАЦИЯ</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="surname">ФАМИЛИЯ</string>
+    <string name="name">ИМЯ</string>
+    <string name="ok">OK</string>
+    <string name="label">Выбранное отделение:</string>
+    <string name="goal">Цель визита:</string>
+    <string name="time">Время визита:</string>
+    <string name="date">Дата визита:</string>
+    <string name="item_picker">Выбор элемента</string>
+    <string name="finish">Спасибо!</string>
+    <string-array name="goal_array">
+        <item>Консультация</item>
+        <item>Открытие счета</item>
+        <item>Открытие вклада</item>
+        <item>Перевыпуск карты</item>
+        <item>Получиение кредита</item>
+    </string-array>
+</resources>
+
